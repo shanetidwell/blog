@@ -1,5 +1,5 @@
 {
-  "version": "327e2617",
+  "version": "563c07ee",
   "entry": {
     "module": "/build/entry.client-ICIHE5CF.js",
     "imports": [
@@ -11,7 +11,7 @@
     "root": {
       "id": "root",
       "path": "",
-      "module": "/build/root-4UJSLGAI.js",
+      "module": "/build/root-XY46NPS5.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
@@ -21,12 +21,12 @@
       "id": "routes/index",
       "parentId": "root",
       "index": true,
-      "module": "/build/routes/index-EFCACSXR.js",
+      "module": "/build/routes/index-62M4K4SP.js",
       "hasAction": false,
       "hasLoader": false,
       "hasCatchBoundary": false,
       "hasErrorBoundary": false
     }
   },
-  "url": "/build/manifest-327E2617.js"
+  "url": "/build/manifest-563C07EE.js"
 }
