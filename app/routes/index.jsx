@@ -1,7 +1,9 @@
+import {Link} from "remix";
+
 export default function Index() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <nav className={'py-8 px-8 flex flex-row justify-between'}>
+      <nav className={'py-16 px-16 flex flex-row justify-between'}>
           <div>
               <a className={'text-3xl'}
                   target="_blank"
@@ -22,13 +24,7 @@ export default function Index() {
               </a>
             </li>
               <li>
-                  <a
-                      target="_blank"
-                      href="https://remix.run/tutorials/blog"
-                      rel="noreferrer"
-                  >
-                      Resume
-                  </a>
+                  <Link to="/resume">Resumè</Link>
               </li>
           </ul>
       </nav>
